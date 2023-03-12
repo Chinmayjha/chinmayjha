@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Front-end**
 
-- 👨‍💻 All of my projects are available at [chinmayjha.github.io](chinmayjha.github.io)
+- 👨‍💻 All of my projects are available at [chinmayjha.github.io](https://chinmayjha.github.io)
 
 - 💬 Ask me about **Html,css**
 
