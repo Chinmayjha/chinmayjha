@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [My website](https://chinmayjhajha.github.io)
 
-- 🌱 I’m currently learning **Front-end**
+- 🌱 I’m currently learning **Javascript**
 
 - 👨‍💻 All of my projects are available at [chinmayjha.github.io](https://chinmayjha.github.io)
 
