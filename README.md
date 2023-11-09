@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chinmay Jha</h1>
-<h3 align="center">A beginner and a student that codes for his passion</h3>
+<h3 align="center">Hey, I'm Chinmay Jha, a student and web developer from India. My heart beats in HTML, CSS, and JavaScript, where I create digital wonders. Beyond the screen, I'm a tech enthusiast, always learning new languages to broaden my horizons. Join me on this coding adventure where every line is a brushstroke painting the canvas of innovation and passion.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chinmayjha&label=Profile%20views&color=0e75b6&style=flat" alt="chinmayjha" /> </p>
 
