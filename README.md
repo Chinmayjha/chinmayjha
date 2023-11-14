@@ -1,36 +1,25 @@
-<h1 align="center">Hi 👋, I'm Chinmay Jha</h1>
-<h3 align="center">Hey, I'm Chinmay Jha, a student and web developer from India. My heart beats in HTML, CSS, and JavaScript, where I create digital wonders. Beyond the screen, I'm a tech enthusiast, always learning new languages to broaden my horizons. Join me on this coding adventure where every line is a brushstroke painting the canvas of innovation and passion.</h3>
+# 💫 About Me:
+Hey, I'm Chinmay Jha, a student and web developer from India. My heart beats in HTML, CSS, and JavaScript, where I create digital wonders. Beyond the screen, I'm a tech enthusiast, always learning new languages to broaden my horizons. Join me on this coding adventure where every line is a brushstroke painting the canvas of innovation and passion.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chinmayjha&label=Profile%20views&color=0e75b6&style=flat" alt="chinmayjha" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chinmayjha" alt="chinmayjha" /></a> </p>
+## 🌐 Socials:
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/itschinmayjha) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/itschinmayjha) 
 
-<p align="left"> <a href="https://twitter.com/itschinmayjha" target="blank"><img src="https://img.shields.io/twitter/follow/itschinmayjha?logo=twitter&style=for-the-badge" alt="itschinmayjha" /></a> </p>
+# 💻 Tech Stack:
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=chinmayjha&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=chinmayjha&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=chinmayjha&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 🔭 I’m currently working on [My website](https://chinmayjhajha.github.io)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-- 🌱 I’m currently learning **Javascript**
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-- 👨‍💻 All of my projects are available at [chinmayjha.github.io](https://chinmayjha.github.io)
+---
+[![](https://visitcount.itsvg.in/api?id=chinmayjha&icon=2&color=8)](https://visitcount.itsvg.in)
 
-- 💬 Ask me about **Html,css**
-
-- 📫 How to reach me **chinmayjha2021@gmail.com**
-
-- ⚡ Fun fact **I live on earth**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/itschinmayjha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="chinmayjha" height="30" width="40" /></a>
-<a href="https://dev.to/chinmayjha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="chinmayjha" height="30" width="40" /></a>
-<a href="https://twitter.com/itschinmayjha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itschinmayjha" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chinmayjha&show_icons=true&locale=en&layout=compact" alt="chinmayjha" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chinmayjha&show_icons=true&locale=en" alt="chinmayjha" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chinmayjha&" alt="chinmayjha" /></p>
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/chinmayjha) 
