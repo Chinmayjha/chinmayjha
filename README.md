@@ -1,25 +1,57 @@
-# 💫 About Me:
-Hey, I'm Chinmay Jha, a student and web developer from India. My heart beats in HTML, CSS, and JavaScript, where I create digital wonders. Beyond the screen, I'm a tech enthusiast, always learning new languages to broaden my horizons. Join me on this coding adventure where every line is a brushstroke painting the canvas of innovation and passion.
+# Hi there! 👋 I'm Chinmay Jha
 
+I'm a passionate student and web developer from India, with a heart that beats for HTML, CSS, and JavaScript. My coding journey is all about creating digital wonders, where every line of code paints the canvas of innovation and passion.
 
-## 🌐 Socials:
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/itschinmayjha) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/itschinmayjha) 
+🌐 **Website:** [Under Development]
 
-# 💻 Tech Stack:
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=chinmayjha&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=chinmayjha&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chinmayjha&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+📧 **Email:** [chinmayjha2021@gmail.com](mailto:chinmayjha2021@gmail.com)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+🔭 **Projects:** Check out some of my projects:
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<details>
+  <summary>Click to view projects</summary>
+  
+  - [Responsive Landing Page](https://github.com/chinmayjha/Responsive-Landing-Page)
+  - [Responsive Navigation Bar](https://github.com/chinmayjha/Responsive-navigation-bar)
+  - [Google Clone](https://github.com/chinmayjha/Google-clone)
+  - [Netflix Login Page Clone](https://github.com/chinmayjha/Netflix-login-page-clone)
+  - [Technoblade Tribute](https://github.com/chinmayjha/Technoblade-Tribute)
+  <!-- You can add more projects -->
+</details>
 
----
-[![](https://visitcount.itsvg.in/api?id=Chinmay&label=Total%20Visitors&color=8&icon=2&pretty=true)](https://visitcount.itsvg.in)
+📊 **GitHub Stats:**  
+![Chinmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=chinmayjha&show_icons=true&theme=radical)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/chinmayjha) 
+📈 **Top Languages:**  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chinmayjha&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+🔥 **GitHub Streak:**  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chinmayjha&theme=tokyonight&hide_border=false)
+
+👨‍💻 **GitHub Profile Visit Count:**  
+![Total Visitors](https://visitcount.itsvg.in/api?id=Chinmay&label=Total%20Visitors&color=8&icon=2&pretty=true)
+
+🐦 **Twitter:** Connect with me on [Twitter](https://twitter.com/itschinmayjha)
+
+🤖 **Telegram:** Reach out to me on [Telegram](https://t.me/chinmayjha)
+
+☕ **Support:** If you like my work and want to support me, consider buying me a coffee ☕️ on [Buy Me a Coffee](https://buymeacoffee.com/chinmayjha)
+
+## Tech Softwares & Languages
+
+### Preferred Tech Softwares
+- **Code Editor/IDE:** Visual Studio Code
+- **Version Control System:** Git
+- **Back-end Framework:** Node.js
+- **Preferred Databases:** MongoDB, MySQL
+
+### Skills & Technologies
+- HTML
+- CSS
+- JavaScript
+- Responsive Design
+- Git Version Control
+- Node.js Basics
+- Basic Database Management (MongoDB, MySQL)
+
+Feel free to drop me an email at [chinmayjha2021@gmail.com](mailto:chinmayjha2021@gmail.com) for any inquiries or collaborations!
