@@ -2,7 +2,7 @@
 
 I'm a passionate student and web developer from India, with a heart that beats for HTML, CSS, and JavaScript. My coding journey is all about creating digital wonders, where every line of code paints the canvas of innovation and passion.
 
-🌐 **Website:** [chinmayjha.github.io](chinmayjha.github.io)
+🌐 **Website:** [chinmayjha.github.io](https://chinmayjha.github.io)
 
 📧 **Email:** [chinmayjha2021@gmail.com](mailto:chinmayjha2021@gmail.com)
 
