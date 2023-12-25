@@ -16,6 +16,7 @@ I'm a passionate student and web developer from India, with a heart that beats f
   - [Google Clone](https://github.com/chinmayjha/Google-clone)
   - [Netflix Login Page Clone](https://github.com/chinmayjha/Netflix-login-page-clone)
   - [Technoblade Tribute](https://github.com/chinmayjha/Technoblade-Tribute)
+  - [Live date and Time](https://github.com/chinmayjha/Live-time)
   - 🌟 [Explore more projects on GitHub](https://github.com/chinmayjha?tab=repositories) 🌟
   - ✨ [View my CodePen projects](https://codepen.io/itschinmayjha) ✨
   <!-- You can add more projects -->
